@@ -6,9 +6,8 @@ src
 *.xls
 *.zip
 *.ipynb_checkpoints/
-Clustering/
-Libraries/
-SentimentAnalysis/
-Summarization/leaf_by_niggle.txt
-TransferLearning/
-Word2Vec_Doc2Vec/
+datasets
+*.ipynb
+SentimentAnalysis
+Classification/
+*.model
