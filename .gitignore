@@ -9,6 +9,7 @@ datasets
 *.ipynb
 SentimentAnalysis
 Classification/
-Datasets
+raw_dataframes
+pre_processed_dataframes
 *.model
 */data
