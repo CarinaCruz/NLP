@@ -5,8 +5,6 @@
 *.xls
 *.zip
 *.ipynb_checkpoints/
-datasets
-*.ipynb
 SentimentAnalysis
 Classification/
 raw_dataframes
