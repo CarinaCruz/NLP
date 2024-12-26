@@ -1,6 +1,5 @@
 */*/data
 */*/.ipynb_checkpoints/
-src
 *.txt
 *.csv
 *.xls
@@ -10,4 +9,6 @@ datasets
 *.ipynb
 SentimentAnalysis
 Classification/
+Datasets
 *.model
+*/data
