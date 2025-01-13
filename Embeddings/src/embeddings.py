@@ -1,4 +1,3 @@
-# Databricks notebook source
 from transformers import AutoTokenizer, AutoModel
 import numpy as np
 import torch
