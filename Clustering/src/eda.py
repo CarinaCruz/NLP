@@ -1,4 +1,3 @@
-# Databricks notebook source
 import tqdm
 from collections import Counter
 from wordcloud import WordCloud
